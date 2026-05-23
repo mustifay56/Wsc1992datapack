@@ -1,7 +1,4 @@
 [TEAMS]
-# ====================================================================
-# 1. TÜRKİYE (1. LİG & 2. LİG - 1992/1993)
-# ====================================================================
 Galatasaray|Galatasaray (1992)
 Beşiktaş|Beşiktaş (1992)
 Trabzonspor|Trabzonspor (1992)
@@ -28,10 +25,6 @@ Eskişehirspor|Eskişehirspor (1992)
 Adana Demirspor|Adana Demirspor (1992)
 Adanaspor|Adanaspor (1992)
 Mersin İdman Yurdu|Mersin İdman Yurdu (1992)
-
-# ====================================================================
-# 2. İNGİLTERE (PREMIER LEAGUE & DIVISION ONE - 1992/1993)
-# ====================================================================
 Manchester United|Manchester United (1992)
 Aston Villa|Aston Villa (1992)
 Norwich City|Norwich City (1992)
@@ -60,10 +53,6 @@ Portsmouth|Portsmouth (1992)
 Leicester City|Leicester City (1992)
 Derby County|Derby County (1992)
 Wolverhampton|Wolverhampton (1992)
-
-# ====================================================================
-# 3. İTALYA (SERIE A & SERIE B - 1992/1993)
-# ====================================================================
 AC Milan|AC Milan (1992)
 Inter|Internazionale (1992)
 Parma|Parma Calcio (1992)
@@ -86,10 +75,6 @@ Lecce|Lecce (1992)
 Bologna|Bologna (1992)
 Bari|Bari (1992)
 Verona|Hellas Verona (1992)
-
-# ====================================================================
-# 4. İSPANYA (LA LIGA & SEGUNDA - 1992/1993)
-# ====================================================================
 Barcelona|FC Barcelona (1992)
 Real Madrid|Real Madrid (1992)
 Deportivo La Coruña|Deportivo (1992)
@@ -111,10 +96,6 @@ Cádiz|Cádiz CF (1992)
 Valladolid|Real Valladolid (1992)
 Real Betis|Real Betis (1992)
 Mallorca|RCD Mallorca (1992)
-
-# ====================================================================
-# 5. ALMANYA (BUNDESLIGA & 2. BUNDESLIGA - 1992/1993)
-# ====================================================================
 Werder Bremen|Werder Bremen (1992)
 Bayern München|Bayern München (1992)
 Eintracht Frankfurt|Eintracht Frankfurt (1992)
@@ -132,10 +113,6 @@ VfL Bochum|VfL Bochum (1992)
 Duisburg|MSV Duisburg (1992)
 Freiburg|SC Freiburg (1992)
 Hertha BSC|Hertha BSC (1992)
-
-# ====================================================================
-# 6. FRANSA (DIVISION 1 & DIVISION 2 - 1992/1993)
-# ====================================================================
 Marseille|Olympique Marseille (1992)
 Paris Saint-Germain|PSG (1992)
 AS Monaco|AS Monaco (1992)
@@ -149,10 +126,6 @@ Lyon|Olympique Lyonnais (1992)
 Lille|Lille OSC (1992)
 Metz|FC Metz (1992)
 Rennes|Stade Rennais (1992)
-
-# ====================================================================
-# 7. HOLLANDA (EREDIVISIE & EERSTE DIVISIE - 1992/1993)
-# ====================================================================
 Feyenoord|Feyenoord (1992)
 PSV Eindhoven|PSV Eindhoven (1992)
 Ajax|Ajax Amsterdam (1992)
@@ -162,10 +135,6 @@ Utrecht|FC Utrecht (1992)
 Groningen|FC Groningen (1992)
 Heerenveen|SC Heerenveen (1992)
 AZ Alkmaar|AZ Alkmaar (1992)
-
-# ====================================================================
-# 8. PORTEKİZ (PRIMEIRA LIGA & SEGUNDA - 1992/1993)
-# ====================================================================
 FC Porto|FC Porto (1992)
 Benfica|SL Benfica (1992)
 Sporting CP|Sporting CP (1992)
@@ -173,13 +142,7 @@ Boavista|Boavista FC (1992)
 Marítimo|CD Marítimo (1992)
 Braga|SC Braga (1992)
 Vitória Guimarães|Vitória Guimarães (1992)
-
-
 [PLAYERS]
-# ====================================================================
-# 1992/1993 EFSANE OYUNCU DÖNÜŞÜMLERİ (YILDIZLAR)
-# ====================================================================
-# --- Modern Yıldızlar -> 1992 Efsaneleri ---
 Erling Haaland|Marco van Basten
 Kylian Mbappé|Jean-Pierre Papin
 Mauro Icardi|Hakan Şükür
@@ -189,7 +152,7 @@ Vincent Aboubakar|Feyyaz Uçar
 Rafa Silva|Metin Tekin
 Dries Mertens|Tugay Kerimoğlu
 Fred|Oğuz Çetin
-Ed Edin Džeko|Aykut Kocaman
+Edin Džeko|Aykut Kocaman
 Dušan Tadić|Rıdvan Dilmen
 Fernando Muslera|Hayrettin Demirbaş
 Dominik Livaković|Rüştü Reçber
@@ -203,7 +166,6 @@ Rodri|Frank Rijkaard
 Luka Modrić|Robert Prosinečki
 Cristiano Ronaldo|Gheorghe Hagi
 Lionel Messi|Diego Maradona
-Kylian Mbappe|Romário
 Martin Ødegaard|Pep Guardiola
 Virgil van Dijk|Franco Baresi
 Rúben Dias|Paolo Maldini
@@ -211,3 +173,4 @@ Marquinhos|Ronald Koeman
 Alisson Becker|Peter Schmeichel
 Thibaut Courtois|Edwin van der Sar
 Ederson|Andoni Zubizarreta
+[TEAMS]
