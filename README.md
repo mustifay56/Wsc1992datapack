@@ -1,1 +1,0 @@
-# Wsc1992datapack
